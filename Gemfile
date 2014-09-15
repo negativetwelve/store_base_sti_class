@@ -8,4 +8,4 @@ gem 'appraisal', :group => :development
 gem "jeweler", :group => :development
 gem "bundler", :group => :development
 
-gem "minitest", "~> 4.0"
+gem "minitest", "~> 5.0"
